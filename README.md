@@ -2,5 +2,7 @@
 
 **Screenshot**
 
-![Grocery shop app UI](https://github.com/user-attachments/assets/73a83d0d-d0cf-4b68-8065-0045fed0bd45)
+![Grocery shop app UI](https://github.com/user-attachments/assets/31ad9fe1-3e8a-4eef-98ef-dc68e9db9f08)
+
+
 
